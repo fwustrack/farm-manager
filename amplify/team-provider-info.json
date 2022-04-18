@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-farmmanager-dev-111339-authRole",
+      "UnauthRoleArn": "arn:aws:iam::318048618118:role/amplify-farmmanager-dev-111339-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::318048618118:role/amplify-farmmanager-dev-111339-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-farmmanager-dev-111339-deployment",
+      "UnauthRoleName": "amplify-farmmanager-dev-111339-unauthRole",
+      "StackName": "amplify-farmmanager-dev-111339",
+      "StackId": "arn:aws:cloudformation:eu-central-1:318048618118:stack/amplify-farmmanager-dev-111339/d6e84ab0-bef7-11ec-bd9a-0a614460aaa0",
+      "AmplifyAppId": "d29fco3stg1815"
+    }
+  }
+}
